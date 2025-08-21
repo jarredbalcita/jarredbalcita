@@ -38,7 +38,7 @@ const jarred: Developer = {
     },
     
     currentlyLearning: ["Advanced React Patterns", "Three.js", "Microservices"],
-    funFact: "I believe great software is about understanding users, not just code!"
+    quote: "I believe great software is about understanding users, not just code!"
 };
 ```
 
