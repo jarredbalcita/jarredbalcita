@@ -128,38 +128,3 @@ const jarred: Developer = {
     </tr>
   </table>
 </div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jarredbalcita&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Let's Connect!
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-  
-  <p>I'm always excited to collaborate on innovative projects and connect with fellow developers!</p>
-  <p>Feel free to reach out if you want to discuss <b>web development</b>, <b>UX design</b>, or just <b>tech in general</b>.</p>
-  
-  <a href="mailto:jarredbalcita@gmail.com">
-    <img src="https://img.shields.io/badge/jarredbalcita@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=jarredbalcita&style=for-the-badge&color=00D4FF" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-  <br><br>
-  <i>⚡ "Great software isn't just about clean code—it's about understanding users and creating solutions that genuinely improve their lives."</i>
-  
-  <br><br>
-  
-  <b>Thanks for visiting! Have a great day! 😊</b>
-</div>
