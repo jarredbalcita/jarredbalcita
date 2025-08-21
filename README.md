@@ -26,15 +26,15 @@
 
 ```typescript
 const jarred: Developer = {
-    pronouns: "he" | "him",
-    location: "Dubai, UAE 🇦🇪",
+    location: "Dubai, United Arab Emirates",
     education: "BSc Computer Science @ Heriot-Watt University",
     currentYear: 2,
     
     specialties: {
+        languages: ["Python", "Java", "JavaScript", "Lua"],
         frontend: ["React", "TypeScript", "Responsive Design", "CSS Animations"],
         ux: ["User Research", "Wireframing", "Prototyping", "Accessibility"],
-        backend: ["Node.js", "Python", "Database Design", "RESTful APIs"]
+        backend: ["Node.js", "PHP", "Database Design", "RESTful APIs"]
     },
     
     currentlyLearning: ["Advanced React Patterns", "Three.js", "Microservices"],
@@ -54,6 +54,7 @@ const jarred: Developer = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 ### 🛠️ Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -78,8 +79,6 @@ const jarred: Developer = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 </div>
 
