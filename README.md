@@ -1,4 +1,4 @@
-# Hi there, I'm Juan Jarred! 👋
+# Hi there, I'm Juan Jarred Balcita! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+%26+UX+Developer;Computer+Science+Student;Full+Stack+Enthusiast;Creating+User-Centered+Solutions" alt="Typing SVG" />
