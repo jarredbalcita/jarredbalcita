@@ -85,14 +85,5 @@ const jarred: Developer = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jarredbalcita&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Juan Jarred's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarredbalcita&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarredbalcita&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarredbalcita&custom_title=Juan%20Jarred's%20Contribution%20Graph&bg_color=0d1117&color=00D4FF&line=00FF88&point=FFFFFF&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
